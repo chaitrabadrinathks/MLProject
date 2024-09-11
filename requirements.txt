@@ -9,4 +9,7 @@ catboost
 xgboost
 scikit-learn
 dill
+Flask
+requests
+numpy
 -e .
